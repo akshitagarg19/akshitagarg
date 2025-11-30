@@ -1,0 +1,13 @@
+# SITE CONFIGURATION
+title: Akshita Garg | AI/Data Science Portfolio
+tagline: Interdisciplinary AI Scholar | Top 1% Competitive Finalist
+description: Interdisciplinary scholar pursuing Data Science from IIT Madras and Chemistry Hons from Delhi University.
+
+# THEME CONFIGURATION
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+
+# HEADER LINKS (EDIT THESE)
+github_username: akshitagarg19
+linkedin_username: akshitagargg
