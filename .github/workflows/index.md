@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Portfolio
 ---
 ## 📝 PROFESSIONAL SUMMARY
 
