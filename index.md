@@ -2,6 +2,7 @@
 layout: default
 title: Portfolio
 ---
+# AKSHITA GARG
 ## 📝 PROFESSIONAL SUMMARY
 
 Interdisciplinary scholar pursuing Data Science from IIT Madras and Chemistry Hons from Delhi University, proficient in applying Machine Learning and statistical modeling to complex scientific datasets for cutting-edge AI research. Driven by competitive success and a strong foundation in analytical rigor.
